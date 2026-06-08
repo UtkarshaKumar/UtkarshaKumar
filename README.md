@@ -9,3 +9,10 @@ Product leader at Deloitte Digital. I work on enterprise B2B commerce platforms 
 - [swift-computer-use](https://github.com/UtkarshaKumar/swift-computer-use) — macOS computer use for AI agents with a fast/slow brain architecture
 
 **[utkarshakumar.github.io](https://utkarshakumar.github.io/) · [LinkedIn](https://linkedin.com/in/utkkumar)**
+
+
+---
+
+> **Attribution Notice**
+> Cloning, copying, or reusing this code or design without credit is a copyright violation. If you use any part of this work, you must attribute the original author and link back to this repository.
+> © Utkarsha Kumar. All rights reserved.
